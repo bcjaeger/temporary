@@ -1,0 +1,25 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# temporary
+
+this is a project I am working on with Devin to introduce the `drake`, `dflow`, and `usethis` packages. 
+
+## instructions
+
+1. Open rstudio and apply the `usethis` package to create this project from github.
+1. Use the `usethis` package to create a separate project that you can call 'devin-temp'
+1. Use the `dflow` package to create a drake focused project.
+1. Write a fake plan with some semblance to the plan in this repo.
+1. use the `usethis` package to publish the repository on github. 
+1. let me know when you are done and we can set up a time to review and go through questions. 
